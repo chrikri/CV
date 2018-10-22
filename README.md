@@ -2,18 +2,21 @@
 
 # Informations
 
-**Name:**Christiana Krielesi
-**Address:**Corfu
-**Age:**19
+**Name:** Christiana Krielesi
+**Address:** Corfu
+**Age:** 19
 
-* **Languages:**
-1.English
-1.Greek
+  **Languages:**
+- English
+- Greek
 
-* **Hobies:**
+  **Hobies:**
+
 1.Piano
-1.Ballet
-1.Swimming
+
+2.Ballet
+
+3.Swimming
 
 
 
