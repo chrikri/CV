@@ -2,6 +2,7 @@ theme: jekyll-theme-cayman
 person:
    first: Christina
    last: Krielesi
+   Birthday: 1999-02-11
 
   email: p17krye@ionio.gr
   pdf: /data/cv.pdf
@@ -9,10 +10,13 @@ person:
   url: "chrikri.github.io"
   social:
     github: chrikri
+    
   education:
-  - school: Carnegie Mellon University
-    location: Pittsburgh, Pennsylvania
-    degree: Ph.D. in Computer Science
-    dates: Aug 2014 -- May 2019 (expected)
+  - school: Ionio University
+    location: Corfu
+    occupation: student
+    dates: Sep 2017 -- May 2021 (expected)
 
-  
+  skills:
+  - title: Languages
+    details: C, C++, Java
