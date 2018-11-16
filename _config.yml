@@ -5,7 +5,7 @@ person:
    Birthday: 1999-02-11
 
   email: p17krye@ionio.gr
-  pdf: /data/cv.pdf
+  #pdf: /data/CV.pdf
   src: https://github.com/chrikri/CV
   url: "chrikri.github.io"
   social:
