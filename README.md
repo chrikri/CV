@@ -17,6 +17,9 @@
 2.Ballet
 
 3.Swimming
+
+4. camping
+
 -------------
 
 
