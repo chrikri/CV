@@ -6,18 +6,18 @@
 **Address:** Corfu
 **Age:** 19
 
-  **Languages:**
+**Languages:**
 - English
 - Greek
 
-  **Hobies:**
+**Hobies:**
 
 1.Piano
 
 2.Ballet
 
 3.Swimming
-
+-------------
 
 
 
