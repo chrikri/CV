@@ -4,7 +4,7 @@
 
 **Name:** Christiana Krielesi
 **Address:** Corfu
-**Age:** 19
+**Age:** 21
 
 **Languages:**
 - English
@@ -18,7 +18,7 @@
 
 3.Swimming
 
-4. camping
+4.camping
 
 5. Programming
 -------------
