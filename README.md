@@ -1,11 +1,10 @@
 Christina Krielesi
 ============
 
--------------------     ----------------------------
-1 Corfu                        p17krye@ionio.gr
-MyTown 1000                    
+-------------------     
+ Corfu                        p17krye@ionio.gr                   
 Greece                           
--------------------     ----------------------------
+
 
 Education
 ---------
@@ -26,7 +25,7 @@ Conference monitoring
 
 Programming Languages
 
-:   Basic knowledge of **C**, **C++**, **Java** 
+:   Basic knowledge of **C**, **C++**, **Java** and **Python** 
 
 [ref]: https://github.com/githubuser/superlongprojectname
 
