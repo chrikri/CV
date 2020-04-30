@@ -1,14 +1,14 @@
 Christina Krielesi
 ============
 
-    
+p17krye@ionio.gr    
 Corfu, Greece                           
 
 
 Education
 ---------
 
-2017- (expected)
+2017-2021 (expected)
 :   **Student, Computer Science** Ionion University (Corfu)
 
     *Direction : Ηumanities and social sciences*
