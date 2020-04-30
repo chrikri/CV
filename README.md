@@ -33,7 +33,6 @@ More about me (Interests/Hobbies)
 ----------------------------------------
 
 * Human Languages:
-
      * Greek (native speaker)
      * English
      
